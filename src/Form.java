@@ -21,7 +21,7 @@ public abstract class Form {
         frame.dispose();
     }
 
-    // Getter para encapsulamiento
+    
     public JFrame getFrame() {
         return frame;
     }
